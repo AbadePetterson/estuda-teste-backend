@@ -1,0 +1,16 @@
+{
+    "name": "estudacom/test_dev",
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Estudacom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Estuda.com"
+        }
+    ]
+}

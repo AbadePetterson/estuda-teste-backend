@@ -1,0 +1,12 @@
+[
+  {"id": 1, "house_id": 1, "name": "Stannis Baratheon"},
+  {"id": 2, "house_id": 2, "name": "Balon Greyjoy"},
+  {"id": 3, "house_id": 2, "name": "Theon Greyjoy"},
+  {"id": 4, "house_id": 3, "name": "Cersei Lannister"},
+  {"id": 5, "house_id": 3, "name": "Jaime Lannister"},
+  {"id": 6, "house_id": 3, "name": "Tyrion Lannister"},
+  {"id": 7, "house_id": 4, "name": "Sansa Stark"},
+  {"id": 8, "house_id": 4, "name": "Arya Stark"},
+  {"id": 9, "house_id": 4, "name": "Jon Snow"},
+  {"id": 10, "house_id": 5, "name": "Daenerys Targaryen"}
+]
